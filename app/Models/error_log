@@ -1,0 +1,56 @@
+[17-Mar-2022 04:12:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/trivenay/public_html/DelApotek/app/Models/Beranda.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/Beranda.php on line 8
+[17-Mar-2022 04:12:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/trivenay/public_html/DelApotek/app/Models/Cart.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/Cart.php on line 10
+[17-Mar-2022 04:12:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/trivenay/public_html/DelApotek/app/Models/CartDetail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/CartDetail.php on line 10
+[17-Mar-2022 04:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/trivenay/public_html/DelApotek/app/Models/Informasi.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/Informasi.php on line 8
+[17-Mar-2022 04:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/trivenay/public_html/DelApotek/app/Models/Keluhan.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/Keluhan.php on line 8
+[17-Mar-2022 04:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/trivenay/public_html/DelApotek/app/Models/Kategori.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/Kategori.php on line 9
+[17-Mar-2022 04:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/trivenay/public_html/DelApotek/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/User.php on line 11
+[17-Mar-2022 04:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/trivenay/public_html/DelApotek/app/Models/ProdukPromo.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/ProdukPromo.php on line 10
+[17-Mar-2022 04:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/trivenay/public_html/DelApotek/app/Models/Produk.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/Produk.php on line 8
+[17-Mar-2022 04:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/trivenay/public_html/DelApotek/app/Models/ProdukImage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/ProdukImage.php on line 10
+[17-Mar-2022 04:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/trivenay/public_html/DelApotek/app/Models/UsulkanProduk.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/UsulkanProduk.php on line 8
+[17-Mar-2022 04:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/trivenay/public_html/DelApotek/app/Models/Wishlist.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/Wishlist.php on line 8
+[17-Mar-2022 04:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/trivenay/public_html/DelApotek/app/Models/KirimResep.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/KirimResep.php on line 8
+[17-Mar-2022 04:12:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/trivenay/public_html/DelApotek/app/Models/Slideshow.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/trivenay/public_html/DelApotek/app/Models/Slideshow.php on line 8

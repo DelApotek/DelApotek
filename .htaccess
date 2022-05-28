@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^delapotek\.trivenaynpanjaitan\.my\.id$
+RewriteRule ^/?$ "https\:\/\/delapotek\.trivenaynpanjaitan\.my\.id\/" [R=301,L]
+
