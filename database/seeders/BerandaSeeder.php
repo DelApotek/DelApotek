@@ -31,7 +31,7 @@ class BerandaSeeder extends Seeder
                 'isiBeranda' => 'Makanan sehat adalah hal yang sangat bermanfaat untuk tubuh. Banyak manfaat yang akan didapatkan dari makan makanan sehat. Selain itu, makanan sehat juga tidak sulit untuk ditemukan. Banyak toko-toko yang menjual makanan sehat mulai dari bahan baku sampai menu makanan.',
             ],
             [
-                'judulBeranda' => 'Olahraga Tradisional',
+                'judulBeranda' => 'Obat Tradisional',
                 'excerptBody' => 'Ada banyak sekali jenis tanaman obat tradisional atau yang biasa kita sebut dengan obat herbal yang ampuh me..',
                 'isiBeranda' => 'Ada banyak sekali jenis tanaman obat tradisional atau yang biasa kita sebut dengan obat herbal yang ampuh mengobati penyakit ringan hingga penyakit kelas berat. Selain itu, Tanaman obat tradisional ini juga sudah teruji mampu menghilangkan penyakit dibandingkan dengan obat-obatan yang dicampur dengan zat kimia. Untuk itu bagi Anda yang ingin menanam tanaman obat tradisional berikut kami sajikan untuk Anda.',
             ],

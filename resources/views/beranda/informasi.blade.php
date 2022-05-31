@@ -9,30 +9,30 @@
             <h2>Artikel populer</h2><br>
             <div class="row">
                 <div class="col-sm-8">
-                    <img src="images/40.jpg" style="width: 620px; height: 340px">
+                    <img src="images/40.JPG" style="width: 620px; height: 340px">
                 </div>
 
                 <div class="col-sm-4 d-flex flex-column">
                     <div class="text-start w-100 my-2 my-2"><a href="{{ URL::to('informasi/' . $info->find(7)->id) }}"
-                            class="text-dark fw-bold"><img src="images/17.jpg" style="float: left; width: 90px;"
+                            class="text-dark fw-bold"><img src="images/17.JPG" style="float: left; width: 90px;"
                                 class="mx-2" />
                             {{ $info->find(7)->excerptJudul }} </a>
                     </div>
                     <div class="text-start w-100 my-2"><a href="{{ URL::to('informasi/' . $info->find(8)->id) }}"
-                            class="text-dark fw-bold"><img src="images/16.jpg" style="float: left; width: 90px;"
+                            class="text-dark fw-bold"><img src="images/16.JPG" style="float: left; width: 90px;"
                                 class="mx-2" class="mx-2" />
                             {{ $info->find(8)->excerptJudul }} </a>
                     </div>
 
                     <div class="text-start w-100 my-2"><a href="{{ URL::to('informasi/' . $info->find(9)->id) }}"
-                            class="text-dark fw-bold"><img src="images/15.jpg" style="float: left; width: 90px;"
+                            class="text-dark fw-bold"><img src="images/15.JPG" style="float: left; width: 90px;"
                                 class="mx-2" />
                             {{ $info->find(9)->excerptJudul }} </a>
                     </div>
 
 
                     <div class="text-start w-100 my-2"><a href="{{ URL::to('informasi/' . $info->find(10)->id) }}"
-                            class="text-dark fw-bold"><img src="images/18.jpg" style="float: left; width: 90px;"
+                            class="text-dark fw-bold"><img src="images/18.JPG" style="float: left; width: 90px;"
                                 class="mx-2" />
                             {{ $info->find(10)->excerptJudul }} </a>
                     </div>

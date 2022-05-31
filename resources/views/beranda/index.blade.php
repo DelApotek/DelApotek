@@ -212,7 +212,7 @@
                             </div>
                             <div class="col-sm-6 col-lg-4 mb-4">
                                 <div class=" mb-3">
-                                    <img src="images/1.jpg" class="card-img-top" width="200" height="140" alt="gambar2">
+                                    <img src="images/5.JPG" class="card-img-top" width="200" height="140" alt="gambar2">
                                     <div class="card-body">
                                         <h5 class="card-title">{{ $beranda->find(2)->judulBeranda }}</h5>
                                         <p class="card-text text">{{ $beranda->find(2)->excerptBody }}
@@ -240,7 +240,7 @@
                             </div>
                             <div class="col-sm-6 col-lg-4 mb-4">
                                 <div class=" mb-3">
-                                    <img src="images/7.jpg" class="card-img-top" width="200" height="140" alt="gambar4">
+                                    <img src="images/7.JPG" class="card-img-top" width="200" height="140" alt="gambar4">
                                     <div class="card-body">
                                         <h5>{{ $beranda->find(4)->judulBeranda }}</h5>
                                         <p>{{ $beranda->find(4)->excerptBody }}</p>
